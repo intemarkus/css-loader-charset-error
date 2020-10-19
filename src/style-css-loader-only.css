@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+@import "base.css";
+
+.greet::before {
+    color: blue;
+    content: 'Привет, ';
+}
