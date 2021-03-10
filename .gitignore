@@ -1,2 +1,3 @@
-dist
+dist/*
+!dist/serve.json
 node_modules
