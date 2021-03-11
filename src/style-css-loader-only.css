@@ -1,3 +1,7 @@
-.greet::before {
-    content: 'Привет, ';
-}
+@charset "utf-8";
+
+@import "imported.css";
+
+/* .greet::before {
+  content: "Привет, ";
+} */

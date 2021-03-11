@@ -1,0 +1,3 @@
+.greet::before {
+  content: "Привет, ";
+}
